@@ -146,5 +146,5 @@ Name: microRNA Targets
 You can try live [here](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master?filepath=unsolved-exercises%2F00-tutorial.ipynb).
 
 
-<iframe src="https://hub.gke.mybinder.org/user/intermine-inter--ws-python-docs-7tpbg41w/notebooks/00-tutorial.ipynb" title="Python Tutorial 00">
+<iframe width="800" height="500" src="https://nbviewer.jupyter.org/github/intermine/intermine-ws-python-docs/blob/master/00-tutorial.ipynb" title="Python Tutorial 00">
 </iframe>
