@@ -1,6 +1,8 @@
 intermine-training-portal
 ===
-https://persdre.github.io/intermine-training-portal/
+InterMine Training Portal is developed for users of [InterMine](http://intermine.org/), which integrates biological data sources, making it easy to query and analyse data.
+
+Address: https://persdre.github.io/intermine-training-portal/
 
 If you want to run this repository locally - clone or download this repo firstly.
 
